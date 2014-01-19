@@ -5,8 +5,6 @@ Basic [Hoplon](http://hoplon.io) container for octohost.
 
 [Hoplon](https://github.com/tailrecursion/hoplon) is a set of tools and libraries for making web application front ends.
 
-Demo site \(usually\) at [http://hoplon.octohost.io](http://hoplon.octohost.io)
-
 Demo taken from [https://github.com/tailrecursion/hoplon-demos](https://github.com/tailrecursion/hoplon-demos)
 
 This repository contains an example Hoplon project. That project is copyright:
